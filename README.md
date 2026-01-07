@@ -1,13 +1,13 @@
 # GDIM32 In Class Activities
 
 
-# W1 Devlog
+## W1 Devlog
 
-## Activity 1 
+### Activity 1 
 
 Make sure to always publish your itch link as public, so that when the graders go in to look at your work, they can actually see and play your game. I know a lot of people kept it as a private draft by action
 
-## Activity 2
+### Activity 2
 
 1. x = 10
 
@@ -27,9 +27,9 @@ Make sure to always publish your itch link as public, so that when the graders g
 
 
 
-## Activity 3
+### Activity 3
 
 
-https://docs.google.com/document/d/1FBSt1IHePMj8a95307bpUR8aoZhdvcjZGS16ntWBc2M/edit?tab=t.0
+[MG1 Breakdown](https://docs.google.com/document/d/1FBSt1IHePMj8a95307bpUR8aoZhdvcjZGS16ntWBc2M/edit?tab=t.0)
 
 
