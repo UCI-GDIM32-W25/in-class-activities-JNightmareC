@@ -7,6 +7,9 @@
 
 Make sure to always publish your itch link as public, so that when the graders go in to look at your work, they can actually see and play your game. I know a lot of people kept it as a private draft by action
 
+
+Others by my group are to always start early on your assignments, and to always have other people constantly play testing your games
+
 ### Activity 2
 
 1. x = 10
