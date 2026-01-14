@@ -44,5 +44,12 @@ Others by my group are to always start early on your assignments, and to always 
 
 <img width="454" height="565" alt="Screenshot 2026-01-13 at 6 08 51 PM" src="https://github.com/user-attachments/assets/5658144f-afdf-493c-8e82-91e3bd3bc83d" />
 
+### Activity 2
+
+
+[MG2 Repository proof](https://github.com/UCI-GDIM32-W25/mg2-oop-review-JNightmareC/commit/b7629814301fb467d9eafda414feeee61f70fb32)
+
+I got a lot of progress done so far in my opinion! Today I was able to create all the game objects onto the scene along with the coin prefab, and I also added the appropriate colliders and triggers so that I can pick up easily when I continue my assignment. The other thing that I did today was creating the ability to jump for the penguin, and set up all other scripts to again, be able to start up quickly the next time my file gets opened in the upcoming days. 
+
 
 
