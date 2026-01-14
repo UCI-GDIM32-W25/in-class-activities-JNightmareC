@@ -36,3 +36,13 @@ Others by my group are to always start early on your assignments, and to always 
 [MG1 Breakdown](https://docs.google.com/document/d/1FBSt1IHePMj8a95307bpUR8aoZhdvcjZGS16ntWBc2M/edit?tab=t.0)
 
 
+
+## W2 Devlog
+
+
+### Activity 1
+
+<img width="454" height="565" alt="Screenshot 2026-01-13 at 6 08 51 PM" src="https://github.com/user-attachments/assets/5658144f-afdf-493c-8e82-91e3bd3bc83d" />
+
+
+
