@@ -52,4 +52,19 @@ Others by my group are to always start early on your assignments, and to always 
 I got a lot of progress done so far in my opinion! Today I was able to create all the game objects onto the scene along with the coin prefab, and I also added the appropriate colliders and triggers so that I can pick up easily when I continue my assignment. The other thing that I did today was creating the ability to jump for the penguin, and set up all other scripts to again, be able to start up quickly the next time my file gets opened in the upcoming days. 
 
 
+## W3 Devlog
+
+### Activity 0
+
+Giovanni Solorio
+
+### Activity 1
+
+The code for this section has been finished!
+
+### Activity 2
+
+This code has been finished as well
+
+### Activity 3
 
