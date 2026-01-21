@@ -68,3 +68,5 @@ This code has been finished as well
 
 ### Activity 3
 
+![IMG_6072](https://github.com/user-attachments/assets/9c61dda1-431b-4789-bff9-660726c2a400)
+
