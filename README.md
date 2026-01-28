@@ -81,6 +81,8 @@ When multiple locators are added to the script, it can be noticed that all scrip
 ### Activity 2
 ![IMG_6134](https://github.com/user-attachments/assets/26e35a0f-a79f-416b-a611-1651677eb754)
 
+### Activity 3
+I was able to make the entire enviroment already! Along with the prefabs of each item, a ceiling so that the player can't jump out of bounds, a locator, a spawn point, and a destroy point. I was also able to code the player's jump. All scripts are ready to be coded in as well, that is what I have done. 
 
 
 
