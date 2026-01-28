@@ -24,6 +24,7 @@ public class Pigeon : MonoBehaviour
     private void UpdateState ()
     {
         if(Input.GetKey(KeyCode.A))
+        // get key is true every time you hold dow, updates every frame, key key down is only once  
         {
             _pidgeonState = MovementState.Flying;
             Debug.Log("pressed A");

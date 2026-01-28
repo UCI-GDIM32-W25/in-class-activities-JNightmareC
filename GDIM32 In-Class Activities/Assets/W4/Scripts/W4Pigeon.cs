@@ -4,6 +4,8 @@ public class W4Pigeon : MonoBehaviour
 {
     [SerializeField] private AudioSource _audio;
     [SerializeField] private Animator _animator;
+   
+
 
     // REMOVE these references to other objects!
     // we're going to alert them via EVENT instead!!
@@ -12,6 +14,10 @@ public class W4Pigeon : MonoBehaviour
     [SerializeField] private W4VFX _vfx;
 
     // HERE, add an event to tell other objects that the pigeon coo'd!
+
+     public delegate void cooDelegate ();
+    //its own method, coo will call delegate
+    public event cooDelegate _cooed;
 
     // don't change the code in this method!
     void Update()
@@ -22,7 +28,7 @@ public class W4Pigeon : MonoBehaviour
         }
     }
 
-    private void Coo ()
+    private void Coo()
     {
         Debug.Log("squack!");
 
@@ -32,7 +38,9 @@ public class W4Pigeon : MonoBehaviour
 
         // HERE, you'll want to REMOVE the code to "tell seagulls", "tell UI", and "tell VFX"
         // instead, fire your coo event!
-        
+        _cooed.Invoke();
+
+       /* 
         // tell seagulls
         foreach(W4Seagull seagull in _seagulls)
         {
@@ -44,5 +52,6 @@ public class W4Pigeon : MonoBehaviour
 
         // tell VFX
         _vfx.HandlePigeonCoo();
+        */
     }
 }
