@@ -68,6 +68,8 @@ This code has been finished as well
 
 ### Activity 3
 
+![IMG_6072](https://github.com/user-attachments/assets/9c61dda1-431b-4789-bff9-660726c2a400)
+
 ## W4 Devlog
 
 ### Activity 0
@@ -77,7 +79,8 @@ Giovanni Solorio
 When multiple locators are added to the script, it can be noticed that all scripts save for one are randomly deleted (again until there is one left). The game objects still remain, but only one script stays on one of the empty game objects. 
 
 ### Activity 2
+![IMG_6134](https://github.com/user-attachments/assets/26e35a0f-a79f-416b-a611-1651677eb754)
 
 
-![IMG_6072](https://github.com/user-attachments/assets/9c61dda1-431b-4789-bff9-660726c2a400)
+
 
