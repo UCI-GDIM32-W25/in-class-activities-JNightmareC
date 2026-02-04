@@ -44,10 +44,12 @@ public class W5Activity1 : MonoBehaviour
 public interface IBreakable {
 	void Damage(float damage);
 	void Break();
+	
 }
 
 public abstract class Item {
 	public abstract void Use();
+	
 }
 
 public class Axe : Item, IBreakable {

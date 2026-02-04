@@ -84,5 +84,8 @@ When multiple locators are added to the script, it can be noticed that all scrip
 ### Activity 3
 I was able to make the entire enviroment already! Along with the prefabs of each item, a ceiling so that the player can't jump out of bounds, a locator, a spawn point, and a destroy point. I was also able to code the player's jump. All scripts are ready to be coded in as well, that is what I have done. 
 
+## W5 Devlog:
 
+### Activity 1
+I thought that the design was simple enough, and way more simplified than having to copy and paste things ov er and over, it would have overcomplicated everything. Everyhting overall looks sleek. If I were to use this while building a project (which I probably would, this helps me orgnnize everything into somehing that is easier for me, and possible other coders to read), I would seperate everything into different scripts, it was a bit confusion that everything wasn't seperated. 
 
