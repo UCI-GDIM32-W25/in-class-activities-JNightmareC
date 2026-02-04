@@ -89,3 +89,33 @@ I was able to make the entire enviroment already! Along with the prefabs of each
 ### Activity 1
 I thought that the design was simple enough, and way more simplified than having to copy and paste things ov er and over, it would have overcomplicated everything. Everyhting overall looks sleek. If I were to use this while building a project (which I probably would, this helps me orgnnize everything into somehing that is easier for me, and possible other coders to read), I would seperate everything into different scripts, it was a bit confusion that everything wasn't seperated. 
 
+### Activity 2
+In the second demo, the model is represended by the scriptable object that holds a few types of data that effect everything else (specifics), the view is represented by the text that is prompted to be shown by the player (along with the inventory they have), and the controler is the classes that control both the players, and the enemies (whether that be movement).
+
+### Activity 3
+Beat system:
+
+- each beat needs a prefab for each transform, sprite renderer, and a scriptable object for each bit of data that corrosponds to it (like keybinds, key length)
+- each beat/ beat type needs a point in which it starts at, how fast it moves, and how its timed within a script that is abstract. That abstract class corrosponds to beats in general since theyre all the same type of object they're attached to, but do different things. 
+- there would also be inheritance within that abstract script for methods, with a singleton it uses for events like hitting notes, and missing notes, all of this would be sending updates to other scripts like the audio and ui to change score, and noises made
+- There would be a finite state machine that is atached to a timer. That timer dictates what state of wellness you are in with notes you hit. The closer to that 0 (or perfect you reach), it changes your score accordingly
+
+
+Team Shooter:
+
+Model View Controler:
+    - Stats for abilities are models
+    - gameplay code that carries out those abilities like causing damage is the controler
+    - view is our UI for activating the ability, and all visual results of seeing things happen
+
+
+Farming sim:
+
+states relevant;
+    - plants or players with mining behavior
+    - growth state for plants
+    - enums for diffeent types of items 
+
+### Activity 4
+
+[The Final proposal](https://docs.google.com/document/d/1GxlGKB6HPG_Q6x96TOvyybNU5x_lLUS-DKCN9NGH8AQ/edit?tab=t.0)
