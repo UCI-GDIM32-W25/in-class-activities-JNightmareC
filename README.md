@@ -118,4 +118,6 @@ states relevant;
 
 ### Activity 4
 
+Attendance: Eli Gutierrez, Jasmine Caicedo, Giovanni Solorio
+
 [The Final proposal](https://docs.google.com/document/d/1GxlGKB6HPG_Q6x96TOvyybNU5x_lLUS-DKCN9NGH8AQ/edit?tab=t.0)
