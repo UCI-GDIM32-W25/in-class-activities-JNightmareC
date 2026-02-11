@@ -121,3 +121,31 @@ states relevant;
 Attendance: Eli Gutierrez, Jasmine Caicedo, Giovanni Solorio
 
 [The Final proposal](https://docs.google.com/document/d/1GxlGKB6HPG_Q6x96TOvyybNU5x_lLUS-DKCN9NGH8AQ/edit?tab=t.0)
+
+
+
+## W5 Devlog
+
+### Activity 1
+
+
+Gizmos: 
+
+- We can on draw gizmos like an update or start so that we can draw a circle and orient it around an object
+- I think my team can use a draw gizmos line attached to the fire particle of the flamethrower of our game, this will let us see what direction it is effecting in
+- We want to make sure that the fire melts the ice in the right distance 
+- It will show trajectory of the particles going out 
+- They are not visible in the main view 
+- We can make it show us where we clicked, where we last went, where objects collided, or where something could go
+
+
+Breakpoints: 
+
+- Stop a game on specific lines of codes with no conditions, or conditions if you'd like, so that you can debug things and check what they're doing
+- We could use this for debugging literally anything, like to make sure specific states of our ice are meeting the correct conditions to melt, and see if the flamethrowers code is doing anything wrong
+
+
+### Activity 2
+
+Attendance: Eli Gutierrez, Jasmine Caicedo, Giovanni Solorio
+
