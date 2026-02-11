@@ -124,7 +124,7 @@ Attendance: Eli Gutierrez, Jasmine Caicedo, Giovanni Solorio
 
 
 
-## W5 Devlog
+## W6 Devlog
 
 ### Activity 1
 
@@ -148,4 +148,4 @@ Breakpoints:
 ### Activity 2
 
 Attendance: Eli Gutierrez, Jasmine Caicedo, Giovanni Solorio
-
+[The Final, final proposal](https://docs.google.com/document/d/1GxlGKB6HPG_Q6x96TOvyybNU5x_lLUS-DKCN9NGH8AQ/edit?tab=t.0)
