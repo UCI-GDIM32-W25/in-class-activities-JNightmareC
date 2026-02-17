@@ -39,7 +39,7 @@ public class PlayerScoot : MonoBehaviour
             direction += Vector3.right;
         }
 
-        transform.position += direction * _speed * Time.deltaTime;
+        transform.position += direction  /* *_speed */ * Time.deltaTime;
     }
 
     private void RunSteppedMovement ()
@@ -49,13 +49,19 @@ public class PlayerScoot : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.W))
         {
             direction += Vector3.forward;
-        } else if (Input.GetKeyDown(KeyCode.A))
+        } 
+        
+        else if (Input.GetKeyDown(KeyCode.A))
         {
             direction += Vector3.left;
-        } else if (Input.GetKeyDown(KeyCode.S))
+        } 
+        
+        else if (Input.GetKeyDown(KeyCode.S))
         {
             direction += Vector3.back;
-        } else if (Input.GetKeyDown(KeyCode.D))
+        }
+        
+         else if (Input.GetKeyDown(KeyCode.D))
         {
             direction += Vector3.right;
         }

@@ -23,11 +23,11 @@ public class Cow : MonoBehaviour
             _meToPlayer = _meToPlayer.normalized;
 
             // apply displacement to cow's position
-            transform.position += _meToPlayer * _speed * Time.deltaTime;
+            //transform.position += _meToPlayer * _speed * Time.deltaTime;
 
             // after learning about coordinate spaces:
-            // transform.Translate(_meToPlayer * _speed * Time.deltaTime); // wrong
-            // transform.Translate(_meToPlayer * _speed * Time.deltaTime, Space.World); // right
+            //transform.Translate(_meToPlayer * _speed * Time.deltaTime); // wrong
+            transform.Translate(_meToPlayer * _speed * Time.deltaTime, Space.World); // right
 
             // helper function in Transform that points this object towards the argument's position
             // we can use this methods like this to avoid having to worry about math! :D
