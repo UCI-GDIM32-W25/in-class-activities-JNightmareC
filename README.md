@@ -168,3 +168,23 @@ Attendance: Eli Gutierrez, Jasmine Caicedo, Giovanni Solorio
 - Make sure to always make  gizmos so that you can visually see the issues with what you are doing (ie if the sphere is going in a different direction, whatnot)
 
 
+### Activity 2
+
+Attendance: Eli Gutierrez, Jasmine Caicedo, Giovanni Solorio
+
+
+### Activity 3
+
+![Image](https://github.com/user-attachments/assets/18700a06-b99b-4005-823f-aabb351c081b)
+
+
+### Activity 4
+
+[Our list](https://trello.com/b/1inv3wX9/tasks-for-melt-ice)
+
+
+### Activity 5
+
+I was able to, in this class period, find and add multiple new audio assets and skybox assets to the scene. I specifically was able to connect an ambient audio to an object so that it would fade out the further away you got from it, then, I implimented the skybox in order to change the aesthetics of the second scene in our game that players will enter into. 
+
+[Link to commit](https://github.com/the-elig/GDIM32-Final/commit/18a63d6055bda2831c3edacb502aa595a7a4b5ba)
