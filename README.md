@@ -149,3 +149,22 @@ Breakpoints:
 
 Attendance: Eli Gutierrez, Jasmine Caicedo, Giovanni Solorio
 [The Final, final proposal](https://docs.google.com/document/d/1GxlGKB6HPG_Q6x96TOvyybNU5x_lLUS-DKCN9NGH8AQ/edit?tab=t.0)
+
+
+## W7 Devlog
+
+### Activity 1
+
+
+- Duck is a finite state machine, its behavior is controlled, it can move in random directions, and can pursuit
+- Will always be used when you have anything to do with stealth, the raycast can focus in on movement and whatnot 
+- These finite states are prime in organizing everything, especially since these movements are so intricate 
+- Most important thing to focus on is raycast 
+- The red line on the gizmos describes it
+- It throws an arrow into the scene and sees if it hits anything in its radius 
+- Hit info.point is a variable to tell you where the raycast hit
+- It then can also check if the point hit the player in the first place 
+- You can also use sphere cast to find an object that your NPC collides with, so it can move the other way as to not hit it
+- Make sure to always make  gizmos so that you can visually see the issues with what you are doing (ie if the sphere is going in a different direction, whatnot)
+
+
