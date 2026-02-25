@@ -188,3 +188,54 @@ Attendance: Eli Gutierrez, Jasmine Caicedo, Giovanni Solorio
 I was able to, in this class period, find and add multiple new audio assets and skybox assets to the scene. I specifically was able to connect an ambient audio to an object so that it would fade out the further away you got from it, then, I implimented the skybox in order to change the aesthetics of the second scene in our game that players will enter into. 
 
 [Link to commit](https://github.com/the-elig/GDIM32-Final/commit/18a63d6055bda2831c3edacb502aa595a7a4b5ba)
+
+
+## W8 Devlog 
+
+### Activity 1
+
+Rendering pipeline:
+Instructions for how everything is drawn to the screen 
+Shaders are part of the pipeline, it is not the pipeline itself 
+Trends resources between CPU and GPU
+Only shaders made for that pipeline can work in that pipeline
+We usually have built in pipeline or scriptable rendering pipeline 
+Can check this by looking at the Project setting on graphics 
+If the option is empty, you are using the built in 
+If there is an asset, you are using the SRP
+
+
+Post processing: 
+Called that as they add effects after everything is drawn to the screen
+It is basically just a shader
+Bloom: punches up brightness of scene and leaks it to other objects
+Add effects to scene after installing the package in package manager 
+You can tell when things are post processing when it affects how your whole game works or looks 
+Once you get an effect, test it immediately to see how it runs and if it can work 
+
+
+### Activity 2
+
+Attendance: Eli Gutierrez, Jasmine Caicedo, Giovanni Solorio
+
+### Activity 3
+The playtesting notes my captain (Eli) wrote are as follows,
+
+- There were no bugs in the moment
+- the movement was good, speed was nice as well
+- nothing felt out of place movement mechanic style
+- We should impliment a UI indication if a player picks something up so it's more intuitive as to what exactly they are doing
+- Visuals wise, I should move the pillow (it was a fold blanket) off  the bed as it was at a really weird spot at it's foot (that was simply aesthetics wise)
+ 
+
+
+### Activity 4
+
+Today I will work on the Audio script, for the task I'm going to do this week, I will make an animation state for a small little NPC that will run arround the map
+
+
+### Activity 5
+
+[The commit](https://github.com/the-elig/GDIM32-Final/commit/042ffe30c5318943c7b59632b76fed2f06cb823c)
+
+Today I worked on creating an audio controller for the game (along with adding some post processing for grunge in the scene). So far, I have added the walking sounds by utalizing an event I hooked up from the player class, I also set up the basic structure for other audios later down the line of this game. 
