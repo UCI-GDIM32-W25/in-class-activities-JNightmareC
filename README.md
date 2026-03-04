@@ -239,3 +239,51 @@ Today I will work on the Audio script, for the task I'm going to do this week, I
 [The commit](https://github.com/the-elig/GDIM32-Final/commit/042ffe30c5318943c7b59632b76fed2f06cb823c)
 
 Today I worked on creating an audio controller for the game (along with adding some post processing for grunge in the scene). So far, I have added the walking sounds by utalizing an event I hooked up from the player class, I also set up the basic structure for other audios later down the line of this game. 
+
+## W9 Devlog 
+
+### Activity 1
+Scaling:
+architectural solutions are scaled well if:
+It has to handle a lot of data 
+It has to be easy for users (other designers, writers, designers, and artists) to add more data 
+
+Why does scaling matter to people in GDIM
+It should matter to us because;
+If we want to code games larger than what we usually build, the architecture needs to scale well
+
+How does scaling apply to what we’ve been doing?
+Scaling relates to what we’ve done so far as literally all of what we do can help us organize things so it scales well
+State machines, MVC, abstraction and polymorphism can help us a lot in order to really organize things better
+
+
+Branching dialogue:
+Hard coding allows for too little options, and a lot more trouble adding those different options 
+If you only have multiple NPCs with branching dialogue, we want to have specific code that attaches to a specific NPC to interact with their dialogue button is specific 
+Keeping dialogue in data lets you pass it around from class to class  
+
+### Activity 2
+
+Attendance: Eli Gutierrez, Jasmine Caicedo, Giovanni Solorio
+
+
+### Activity 3 
+
+- lower the mouse sensitivity
+- sister tends to spawn outside
+- cup also spawns outside as well for some reason
+- Ice outside has a weird clipping ussue on the bottom, where it becomes partially invisable
+- it is sometimes possible to clip outside the house from an odd corner
+- The house has good design and conveys it's drearyness as inteded, and the outside is a favorite of quite a few! it's colorful and lively
+
+### Activity 4
+
+Overall, we are actually quite far in our project. We already layed out the framework to build upon, as we already finished the sister, and her dialouge, so we are actually more ahead than I expected we would be. All we really need to do now is adding the new NPC, and finishing the missions. We got a head start from what was expected in the first check up submition. So I really think that we are halfway done, maybe a tad more. 
+
+
+### Activity 5
+
+[The commit](https://github.com/the-elig/GDIM32-Final/commit/bf188b0189c6806a780d12572f036de43ab1526b)
+
+
+Today I was able to add the new NPC to the scene, with all of their animations hooked up and everything. I had created all the animations using the PNG's the character was made up of, and added a part in its "aware" state to have it constantly look at the player when it is in that state. 
