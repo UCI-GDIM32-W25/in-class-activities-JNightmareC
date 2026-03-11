@@ -287,3 +287,28 @@ Overall, we are actually quite far in our project. We already layed out the fram
 
 
 Today I was able to add the new NPC to the scene, with all of their animations hooked up and everything. I had created all the animations using the PNG's the character was made up of, and added a part in its "aware" state to have it constantly look at the player when it is in that state. 
+
+## W10 Devlog
+
+### Activity 1
+
+Attendance: Eli Gutierrez, Jasmine Caicedo, Giovanni Solorio
+
+### Activity 2
+
+- PLayers thought the gameplay was fun
+- they liked the music, as it reminded them of squid games (???)
+- They noticed that sister still spawned when we din't want her to
+- the neghbor spawns twice
+- nothing else of note, no other bug
+
+### Activity 3
+
+We are around 70% done currently, and we are right on track, all we need to do is drag/ spawn things in scene, fix bugs, and add the extra dialouge. This is really just telling us that we are right on scope. 
+
+### Activity 4
+
+[The Commit](https://github.com/the-elig/GDIM32-Final/commit/b98ad23017dddca1524532f1cfb8a601cd695345)
+
+In this class period I was able to both create a particle effect to melt the ice cube, and fixed the clipping issue that the ice had where you can see inside the object. Specifically for the particle effect, I adjusted it to be able to have a longer range, a collider, and then I attached it to the flamethrower I added a few days ago. 
+
